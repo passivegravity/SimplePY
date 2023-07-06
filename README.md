@@ -12,3 +12,11 @@
 > *Even R Odd Up to 400*
 >
 > ![ezgif com-optimize](https://user-images.githubusercontent.com/96681438/229351647-c4c4d442-2214-4570-93e6-51476b24fdb1.gif)
+
+
+> *Dumbest Calendar*
+> 
+> ![image](https://github.com/xymine/SimplePY/assets/96681438/88e5ace9-2e03-4edc-b3b3-24489dde7181)
+>
+> ![image](https://github.com/xymine/SimplePY/assets/96681438/f6517aa0-4de6-4a91-9ed0-3cac8f32c2ce)
+
